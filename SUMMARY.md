@@ -7,4 +7,5 @@
   * [Салаты ](raspety/salaty.md)
 * [🧋 Напитки](napitki/README.md)
   * [Алкагольные](napitki/alkagolnye.md)
-  * [Без алкагольные](napitki/bez-alkagolnye.md)
+  * [Без алкагольные](napitki/bez-alkagolnye/README.md)
+    * [Кола](napitki/bez-alkagolnye/kola.md)

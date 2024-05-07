@@ -6,7 +6,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/Снимок экрана 2024-05-07 225901.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана 2024-05-07 225901.png" alt=""><figcaption></figcaption></figure>
 
 #### <mark style="color:orange;">СОСТАВ / ИНГРЕДИЕНТЫ</mark>
 
