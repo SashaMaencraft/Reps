@@ -10,4 +10,6 @@
   * [Без алкагольные](napitki/bez-alkagolnye/README.md)
     * [Кола](napitki/bez-alkagolnye/kola.md)
     * [Чай ](napitki/bez-alkagolnye/chai/README.md)
-      * [2 Чай](napitki/bez-alkagolnye/chai/2-chai.md)
+      * [Чай с лимоном](napitki/bez-alkagolnye/chai/chai-s-limonom.md)
+    * [Копучино](napitki/bez-alkagolnye/kopuchino/README.md)
+      * [Page 2](napitki/bez-alkagolnye/kopuchino/page-2.md)
