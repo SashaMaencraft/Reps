@@ -16,4 +16,4 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/Снимок экрана 2024-05-07 232645.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Снимок экрана 2024-05-07 232645 (1).png" alt=""><figcaption></figcaption></figure>

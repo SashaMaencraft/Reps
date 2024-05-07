@@ -12,4 +12,4 @@
     * [Чай ](napitki/bez-alkagolnye/chai/README.md)
       * [Чай с лимоном](napitki/bez-alkagolnye/chai/chai-s-limonom.md)
     * [Копучино](napitki/bez-alkagolnye/kopuchino/README.md)
-      * [Page 2](napitki/bez-alkagolnye/kopuchino/page-2.md)
+      * [Кофе латте по-домашнему](napitki/bez-alkagolnye/kopuchino/kofe-latte-po-domashnemu.md)
