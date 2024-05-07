@@ -9,3 +9,5 @@
   * [Алкагольные](napitki/alkagolnye.md)
   * [Без алкагольные](napitki/bez-alkagolnye/README.md)
     * [Кола](napitki/bez-alkagolnye/kola.md)
+    * [Чай ](napitki/bez-alkagolnye/chai/README.md)
+      * [Page 2](napitki/bez-alkagolnye/chai/page-2.md)
