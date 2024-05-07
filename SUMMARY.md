@@ -1,11 +1,10 @@
 # Table of contents
 
 * [🥣 Главное](README.md)
-
-## Распеты&#x20;
-
-* [Суши - Ролы](raspety/sushi-roly.md)
-* [Пица](raspety/pica.md)
-* [Салаты ](raspety/salaty/README.md)
-  * [Без алкогольные ](raspety/salaty/bez-alkogolnye.md)
-  * [Алкогольные](raspety/salaty/alkogolnye.md)
+* [🫕 Распеты ](raspety/README.md)
+  * [Пица ](raspety/pica.md)
+  * [Ролы - Суши](raspety/roly-sushi.md)
+  * [Салаты ](raspety/salaty.md)
+* [🧋 Напитки](napitki/README.md)
+  * [Алкагольные](napitki/alkagolnye.md)
+  * [Без алкагольные](napitki/bez-alkagolnye.md)
