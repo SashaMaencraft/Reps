@@ -4,7 +4,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/уpng.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/уpng (1).png" alt=""><figcaption></figcaption></figure>
 
 Наверное, многие когда-либо пробовали пиццу под названием "Гавайская". Один из главных ингредиентов такой пиццы - ветчина. Но я предлагаю заменить ветчину варёным куриным филе. Практически нейтральное по вкусу куриное филе пропитывается сладостью ананасов, кислинкой томатного соуса и солёностью сыра. В результате пицца "Гавайская" получается ещё вкуснее и сытнее.
 
@@ -39,7 +39,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/уpng (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/уpng (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
