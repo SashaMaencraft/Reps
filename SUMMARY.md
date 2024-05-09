@@ -9,7 +9,7 @@
   * [🍾 Алкагольные](napitki/alkagolnye.md)
     * [Коктейль "Любовь на пляже](napitki/alkagolnye/kokteil-lyubov-na-plyazhe.md)
     * [Коктейль Виски Мак (Whisky Mac)](napitki/alkagolnye/kokteil-viski-mak-whisky-mac.md)
-    * [Фирменный домашний "коньяк](napitki/alkagolnye/firmennyi-domashnii-konyak.md)
+    * [Фирменный домашний "коньяк](napitki/alkagolnye/page-3.md)
     * [Page 4](napitki/alkagolnye/page-4.md)
     * [Page 5](napitki/alkagolnye/page-5.md)
     * [Page 1](napitki/alkagolnye/page-1.md)
