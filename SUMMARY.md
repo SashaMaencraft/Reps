@@ -22,6 +22,6 @@
     * [Копучино](napitki/bez-alkagolnye/kopuchino/README.md)
       * [Кофе латте по-домашнему](napitki/bez-alkagolnye/kopuchino/kofe-latte-po-domashnemu.md)
 
-## ГИТ ХАП
+## Сот сети
 
-* [Наш гит хап](git-khap/nash-git-khap.md)
+* [Сот сети автора](sot-seti/sot-seti-avtora.md)
