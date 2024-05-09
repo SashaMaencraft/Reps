@@ -4,7 +4,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/7-9-22-680x270.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7-9-22-680x270.jpg" alt=""><figcaption></figcaption></figure>
 
 ```
              Пица
