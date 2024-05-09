@@ -6,7 +6,7 @@
   * [Ролы - Суши](raspety/roly-sushi.md)
   * [Салаты ](raspety/salaty.md)
 * [🧋 Напитки](napitki/README.md)
-  * [Алкагольные](napitki/alkagolnye/README.md)
+  * [Алкагольные](napitki/alkagolnye.md)
     * [Page 1](napitki/alkagolnye/page-1.md)
     * [Page 2](napitki/alkagolnye/page-2.md)
     * [Page 3](napitki/alkagolnye/page-3.md)
