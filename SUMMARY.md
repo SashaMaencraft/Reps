@@ -5,7 +5,7 @@
   * [Пица ](raspety/pica.md)
     * [ Пицца с курицей и ананасами](raspety/pica/picca-s-kuricei-i-ananasami.md)
     * [Пицца «Маргарита»](raspety/pica/page-2.md)
-    * [Page 3](raspety/pica/page-3.md)
+    * [Пицца пепперони в домашних условиях](raspety/pica/picca-pepperoni-v-domashnikh-usloviyakh.md)
   * [Ролы - Суши](raspety/roly-sushi.md)
   * [Салаты ](raspety/salaty.md)
 * [🧋 Напитки](napitki/README.md)
