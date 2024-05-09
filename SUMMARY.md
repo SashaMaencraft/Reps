@@ -2,7 +2,7 @@
 
 * [🥣 Главное](README.md)
 * [🫕 Распеты ](raspety/README.md)
-  * [Пица ](raspety/pica/README.md)
+  * [Пица ](raspety/pica.md)
     * [Page 1](raspety/pica/page-1.md)
     * [Page 2](raspety/pica/page-2.md)
     * [Page 3](raspety/pica/page-3.md)
