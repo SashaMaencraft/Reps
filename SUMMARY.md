@@ -7,7 +7,7 @@
     * [Пицца «Маргарита»](raspety/pica/page-2.md)
     * [Пицца пепперони в домашних условиях](raspety/pica/page-3.md)
   * [Ролы - Суши](raspety/roly-sushi.md)
-  * [Салаты ](raspety/salaty.md)
+  * [Салаты - Соусы](raspety/salaty-sousy.md)
 * [🧋 Напитки](napitki/README.md)
   * [🍾 Алкагольные](napitki/alkagolnye.md)
     * [Коктейль "Любовь на пляже](napitki/alkagolnye/kokteil-lyubov-na-plyazhe.md)
@@ -21,3 +21,4 @@
       * [Чай с лимоном](napitki/bez-alkagolnye/chai/chai-s-limonom.md)
     * [Копучино](napitki/bez-alkagolnye/kopuchino/README.md)
       * [Кофе латте по-домашнему](napitki/bez-alkagolnye/kopuchino/kofe-latte-po-domashnemu.md)
+* [Гит хап](git-khap.md)
