@@ -4,7 +4,7 @@
 * [🫕 Распеты ](raspety/README.md)
   * [Пица ](raspety/pica.md)
     * [ Пицца с курицей и ананасами](raspety/pica/picca-s-kuricei-i-ananasami.md)
-    * [Пицца «Маргарита»](raspety/pica/picca-margarita.md)
+    * [Пицца «Маргарита»](raspety/pica/page-2.md)
     * [Page 3](raspety/pica/page-3.md)
   * [Ролы - Суши](raspety/roly-sushi.md)
   * [Салаты ](raspety/salaty.md)
