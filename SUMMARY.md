@@ -3,7 +3,7 @@
 * [🥣 Главное](README.md)
 * [🫕 Распеты ](raspety/README.md)
   * [Пица ](raspety/pica.md)
-    * [Page 1](raspety/pica/page-1.md)
+    * [ Пицца с курицей и ананасами](raspety/pica/picca-s-kuricei-i-ananasami.md)
     * [Page 2](raspety/pica/page-2.md)
     * [Page 3](raspety/pica/page-3.md)
     * [Page 4](raspety/pica/page-4.md)
