@@ -12,7 +12,7 @@
     * [Page 3](napitki/alkagolnye/page-3.md)
     * [Page 4](napitki/alkagolnye/page-4.md)
     * [Page 5](napitki/alkagolnye/page-5.md)
-  * [Без алкагольные](napitki/bez-alkagolnye/README.md)
+  * [🥛 Без алкагольные](napitki/bez-alkagolnye/README.md)
     * [Кола](napitki/bez-alkagolnye/kola.md)
     * [Чай ](napitki/bez-alkagolnye/chai/README.md)
       * [Чай с лимоном](napitki/bez-alkagolnye/chai/chai-s-limonom.md)
