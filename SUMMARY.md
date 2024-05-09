@@ -11,7 +11,7 @@
     * [Коктейль Виски Мак (Whisky Mac)](napitki/alkagolnye/kokteil-viski-mak-whisky-mac.md)
     * [Фирменный домашний "коньяк](napitki/alkagolnye/page-3.md)
     * [Белое полусладкое вино](napitki/alkagolnye/page-4.md)
-    * [Page 1](napitki/alkagolnye/page-1.md)
+    * [ПИВО ИЗ КВАСНОГО СУСЛА В ДОМАШНИХ УСЛОВИЯХ](napitki/alkagolnye/pivo-iz-kvasnogo-susla-v-domashnikh-usloviyakh.md)
   * [🥛 Без алкагольные](napitki/bez-alkagolnye/README.md)
     * [Кола](napitki/bez-alkagolnye/kola.md)
     * [Чай ](napitki/bez-alkagolnye/chai/README.md)
