@@ -15,6 +15,7 @@
     * [Фирменный домашний "коньяк](napitki/alkagolnye/page-3.md)
     * [Белое полусладкое вино](napitki/alkagolnye/page-4.md)
     * [ПИВО ИЗ КВАСНОГО СУСЛА В ДОМАШНИХ УСЛОВИЯХ](napitki/alkagolnye/pivo-iz-kvasnogo-susla-v-domashnikh-usloviyakh.md)
+    * [Коньяк домашний (или «как облагородить самогон»)](napitki/alkagolnye/konyak-domashnii-ili-kak-oblagorodit-samogon.md)
   * [🥛 Без алкагольные](napitki/bez-alkagolnye/README.md)
     * [Кола](napitki/bez-alkagolnye/kola.md)
     * [Чай ](napitki/bez-alkagolnye/chai/README.md)
