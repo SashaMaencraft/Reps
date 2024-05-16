@@ -14,7 +14,7 @@
       * [Салат Оливье](recepty/salaty-sousy/salat-cezar-prostoi/salat-olive.md)
     * [🍯 домашний соус из кетчупа](recepty/salaty-sousy/domashnii-sous-iz-ketchupa/README.md)
       * [Идеальный сырный соус](recepty/salaty-sousy/domashnii-sous-iz-ketchupa/page-2.md)
-      * [Page 3](recepty/salaty-sousy/domashnii-sous-iz-ketchupa/page-3.md)
+      * [Соус вкус девство ](recepty/salaty-sousy/domashnii-sous-iz-ketchupa/sous-vkus-devstvo.md)
       * [Очень острый соус](recepty/salaty-sousy/domashnii-sous-iz-ketchupa/ochen-ostryi-sous.md)
 * [🧋 Напитки](napitki/README.md)
   * [🍾 Алкагольные](napitki/alkagolnye.md)
