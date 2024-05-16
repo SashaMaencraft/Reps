@@ -11,7 +11,7 @@
     * [🥗 Салат «Цезарь» простой](recepty/salaty-sousy/page-1/README.md)
       * [Салат «Нежность» с плавленым сыром и колбасой](recepty/salaty-sousy/page-1/page-2.md)
       * [Салат из огурцов, кукурузы и яиц](recepty/salaty-sousy/salat-cezar-prostoi/salat-iz-ogurcov-kukuruzy-i-yaic.md)
-      * [Page 4](recepty/salaty-sousy/page-1/page-4.md)
+      * [Салат Оливье](recepty/salaty-sousy/salat-cezar-prostoi/salat-olive.md)
 * [🧋 Напитки](napitki/README.md)
   * [🍾 Алкагольные](napitki/alkagolnye.md)
     * [Коктейль "Любовь на пляже](napitki/alkagolnye/kokteil-lyubov-na-plyazhe.md)
