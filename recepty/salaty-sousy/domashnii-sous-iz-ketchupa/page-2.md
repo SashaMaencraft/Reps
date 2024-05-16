@@ -21,3 +21,4 @@
 
 <figure><img src="../../../.gitbook/assets/Снимок экрана 2024-05-16 183318.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/Снимок экрана 2024-05-16 183318 (2).png" alt=""><figcaption></figcaption></figure>
