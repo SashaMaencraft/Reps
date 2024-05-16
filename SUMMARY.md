@@ -9,7 +9,7 @@
   * [Ролы - Суши](recepty/roly-sushi.md)
   * [Салаты - Соусы](recepty/salaty-sousy/README.md)
     * [🥗 Салат «Цезарь» простой](recepty/salaty-sousy/page-1/README.md)
-      * [Салат «Нежность» с плавленым сыром и колбасой](recepty/salaty-sousy/salat-cezar-prostoi/salat-nezhnost-s-plavlenym-syrom-i-kolbasoi.md)
+      * [Салат «Нежность» с плавленым сыром и колбасой](recepty/salaty-sousy/page-1/page-2.md)
       * [Page 3](recepty/salaty-sousy/page-1/page-3.md)
       * [Page 4](recepty/salaty-sousy/page-1/page-4.md)
       * [Page 5](recepty/salaty-sousy/page-1/page-5.md)
