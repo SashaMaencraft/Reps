@@ -8,7 +8,7 @@
 
 &#x20;                                               🧋<mark style="color:blue;">**Нап**</mark><mark style="color:green;">**итки**</mark>
 
-## 🥛 Без алкогольные - _<mark style="color:blue;">Синие</mark>_
+## 🥛 Без алкогольные - _<mark style="color:blue;">Голубое</mark>_
 
 ## 🍾 Алкогольные  - _<mark style="color:green;">Зелёные</mark>_
 
