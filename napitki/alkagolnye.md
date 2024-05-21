@@ -4,7 +4,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2024-05-09 143823.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Снимок экрана 2024-05-09 143823.png" alt=""><figcaption></figcaption></figure>
 
 Алкогольный коктейль "Мохито" - один из самых популярных напитков в жаркие летние дни. Коктейль "Мохито" готовится из доступных продуктов, поэтому его не сложно приготовить в домашних условиях. Мята, лайм, лимон, немного белого рома - и легкий, освежающий "Мохито" готов!
 
@@ -20,8 +20,8 @@
 
 
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2024-05-09 143950.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Снимок экрана 2024-05-09 143950.png" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2024-05-09 143823 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Снимок экрана 2024-05-09 143823 (1).png" alt=""><figcaption></figcaption></figure>
